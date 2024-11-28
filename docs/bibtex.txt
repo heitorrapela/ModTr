@@ -1,0 +1,6 @@
+@article{medeiros2024modality,
+  title={Modality Translation for Object Detection Adaptation Without Forgetting Prior Knowledge},
+  author={Medeiros, Heitor Rapela and Aminbeidokhti, Masih and Pena, Fidel Guerrero and Latortue, David and Granger, Eric and Pedersoli, Marco},
+  journal={arXiv preprint arXiv:2404.01492},
+  year={2024}
+}
